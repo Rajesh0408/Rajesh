@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am an ambitious person with a passion for developing innovative software solutions. I am always excited to use my technical knowledge and eager to learn new skills. I am more interested in full-stack development and have good programming and problem-solving skills. </h3>
 
 - 🔭 I’m currently working on **Attendance Management System**
 
