@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
-<h3 align="center">I am an ambitious person with a passion for developing innovative software solutions. I am always excited to use my technical knowledge and eager to learn new skills. I am more interested in full-stack development and have good programming and problem-solving skills. </h3>
+<h3 align="center">Always excited to use my technical knowledge and eager to learn new skills.
+Wish to attain a position in a growth-oriented company where I can use my
+strong organizational and technical skills to contribute to the company's
+success. To get an opportunity where I can make the best of my potential and
+contribute to the organization's growth. </h3>
 
 - 🔭 I’m currently working on **Attendance Management System**
 
