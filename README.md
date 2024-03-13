@@ -7,7 +7,7 @@ contribute to the organization's growth. </h3>
 
 - 🔭 I’m currently working on **Deep Learning Projects**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **rajesh.a0408@gmail.com**
 
