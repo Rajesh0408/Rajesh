@@ -5,9 +5,9 @@ strong organizational and technical skills to contribute to the company's
 success. To get an opportunity where I can make the best of my potential and
 contribute to the organization's growth. </h3>
 
-- 🔭 I’m currently working on **Deep Learning Projects**
+- 🔭 I’m currently working on **E-commerce app**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Mobile Development**
 
 - 📫 How to reach me **rajesh.a0408@gmail.com**
 
