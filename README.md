@@ -2,8 +2,7 @@
 <h3 align="center">Always excited to use my technical knowledge and eager to learn new skills.
 Wish to attain a position in a growth-oriented company where I can use my
 strong organizational and technical skills to contribute to the company's
-success. To get an opportunity where I can make the best of my potential and
-contribute to the organization's growth. </h3>
+success.</h3>
 
 - 🔭 I’m currently working on **E-commerce app**
 
